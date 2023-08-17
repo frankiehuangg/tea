@@ -74,6 +74,8 @@ show-ref
 tag
 ```
 
+Video link: https://drive.google.com/drive/folders/1DsfRB3QwwWXu6o2md4lOGgGTu4JYEDS9?usp=drive_link
+
 ## Acknowledgements
 
 - This project was inspired by one of the questions from the Distributed Systems
